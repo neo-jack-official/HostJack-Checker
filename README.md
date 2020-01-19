@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/neo-jack-official/FastJack/master/img/vista01.png)
+![alt text](https://raw.githubusercontent.com/neo-jack-official/HostJack-Checker/master/img/vista01.png)
 # hostjack-checker.py - HostJack-Checker herramienta de estado para Host-Web por Neo-Jack ENE/2020
 
 ## ¿Qué es HostJack-Checker?
