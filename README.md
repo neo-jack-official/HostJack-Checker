@@ -58,6 +58,7 @@ Si `hostjack-checker.py` esta en Escritorio
   Sin TOR:
 * `python hostjack-checker.py www.ejemplo.com`
 * `python hostjack-checker.py www.ejemplo.com -F`
+
   Con TOR:
 * `python hostjack-checker.py www.ejemplo.com -T`
 
