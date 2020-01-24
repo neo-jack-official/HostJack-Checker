@@ -14,7 +14,7 @@ HostJack-Checher es rapido simple y seguro.
 4. Cuenta con acceso a Tor Network mediante el argumento (-T).
 
 
-## Como Instalar y correr PYTHON?
+## Como Instalar PYTHON?
 
 HostJack-Checker es un archivo con extencion "Py", solo requiere tener pre instalado Python.
 
@@ -29,17 +29,6 @@ HostJack-Checker es un archivo con extencion "Py", solo requiere tener pre insta
 ## Revisamos que python esta instalado correctamente
 
 * `python -V | python3 -V`
-
-
-### Soporte para proxy SOCKS5
-
-Si planea usar la opción `-x` para usar un proxy SOCKS5 para conectarse en lugar de una conexión directa a través de su dirección IP, deberá instalar la biblioteca` PySocks`.
- [`PySocks`] (https://github.com/Anorov/PySocks)
- [` SocksiPy`] (http://socksipy.sourceforge.net/) by GitHub @Anorov y puede ser instalado fácilmente por comando ` pip` 
-
-* `sudo pip3 install PySocks`
-
-Luego puede usar la opción `-x` para activar el soporte SOCKS5 y las opciones` --proxy-host` y `--proxy-port` para especificar el host proxy SOCKS5 y su puerto, si son diferentes del estándar` 127.0.0.1: 8080`.
 
 ## Opciones de Configuracion
 
